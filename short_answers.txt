@@ -1,0 +1,5 @@
+3b - The linear scaling to the range that I selected [2, 20] works better than the sqrt scaling because the relative values are more closely preserved between nodes.
+
+4 - This is a much better layout because the most important information isn’t being obscured by jumbled text.  As long as the other names can be viewed via a tooltip, this is preferable.
+
+7 - I changed the charge to -140 and the linkDistance to 100.  I made the node labels bold and removed their pointer events to prevent accidental tooltip activation.  I increased the height of the svg to 600px.
